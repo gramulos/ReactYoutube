@@ -1,0 +1,27 @@
+.search-bar {
+    padding: 10px;
+    background-color: red;
+}
+
+.search-bar input {
+    width: 100%;
+}
+
+.video-item {
+    max-width: 64px;
+}
+
+.video-detail .details {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 0;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item:hover {
+    background-color: #eee;
+}
